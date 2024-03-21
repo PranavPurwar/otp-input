@@ -1,5 +1,6 @@
 # OTP Text Input
 
+
 An elegant and highly customizable One-Time Password (OTP) input library designed to simplify the implementation and enhance the user experience of OTP authentication flows in React Native Applications.
 
 * Written in TypeScript.
