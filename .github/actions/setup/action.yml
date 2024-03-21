@@ -8,6 +8,8 @@ runs:
       uses: actions/setup-node@v3
       with:
         node-version-file: .nvmrc
+    - name: Upgrade yarn
+      run: npm upgrade -g yarn
 
     - name: Cache dependencies
       id: yarn-cache
